@@ -4,7 +4,9 @@ This folder reproduces Eq. 59 and its reported OLS statistics.
 
 ## Files
 
-- `acceptance_estimation_data.xlsx`: one worksheet containing 23,690 anonymized survey-response records and 248 explicitly labelled synthetic boundary-anchor observations.
+- `Ride-pooling-Survey-Shenzhen-main.zip`: survey questionnaire and related survey materials.
+- `acceptance_estimation_data.xlsx`: 23,690 anonymized survey responses and 248 synthetic boundary-anchor observations. The `record_source` column identifies the source of each record.
+- `fit_acceptance_function.py`: estimation script for the passenger acceptance function. 
 
 
 ## Run
